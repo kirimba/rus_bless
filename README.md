@@ -1,5 +1,5 @@
 # rus_bless
-[**BLGame**]
+[**BLGame**]<br>
 1 - 117 - переведено<br>
 <br>
 [**ChatCMDInfo**]<br>
