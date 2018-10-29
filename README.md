@@ -1,9 +1,4 @@
 # rus_bless
-Все что было  в [[**1.7.7**
-sta1k3r](http://forum.bandits-clan.ru/index.php?showtopic=62695)] <br>
-\+ перевод "101" (не весь)<br>
-\+ мой перевод, его пока совсем мало<br>
-<br><br>
 [AccountInfo]<br>
 1 - 4 - переведено<br>
 <br>
