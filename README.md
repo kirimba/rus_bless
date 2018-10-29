@@ -64,7 +64,7 @@ sta1k3r](http://forum.bandits-clan.ru/index.php?showtopic=62695)] <br>
 1 - 928 - переведено<br>
 929 - 1676 - не переведено<br>
 <br>
-[**QuestInfo**] - **не ипользовать (не доделан)**<br>
+[**QuestInfo**]<br>
 1-800 - переведено<br>
 801-16547 - не проверено/не переведено<br>
 <br>
