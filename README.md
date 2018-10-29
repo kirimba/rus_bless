@@ -1,4 +1,7 @@
 # rus_bless
+Все что было  в [[**1.7.7**
+sta1k3r](http://forum.bandits-clan.ru/index.php?showtopic=62695)] и немного нового
+<br><br>
 [**BLGame**]<br>
 1 - 117 - переведено<br>
 <br>
