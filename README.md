@@ -1,9 +1,9 @@
 # rus_bless
-[AccountInfo]<br>
+[**AccountInfo**]<br>
 1 - 4 - переведено<br>
 <br>
-[AuraInfo]<br>
-1 - 1949 - частично (перевод "101")
+[**AuraInfo**]<br>
+1 - 1949 - частично<br>
 <br>
 [**BLGame**]<br>
 1 - 117 - переведено<br>
@@ -41,9 +41,10 @@
 1002 - 2001 - частично<br>
 2002 - 2018 - переведено<br>
 <br>
-[MonologInfo]<br>
-1 - 580 - переведено
+[**MonologInfo**]<br>
+1 - 580 - переведено<br>
 581 - 5163 - не проверено/не переведено<br>
+<br>
 [**OpenerInfo**]<br>
 <br>
 [**OrderInfo**]<br>
