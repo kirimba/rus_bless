@@ -1,5 +1,5 @@
 # rus_bless
-#####_Для загрузки -> Clone or download -> Download ZIP_
+##### _Для загрузки -> Clone or download -> Download ZIP_
 \* - не проверенно под новый патч
 #### [**AccountInfo**]
 * 1 - 4 - переведено
