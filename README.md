@@ -1,5 +1,5 @@
-# rus_bless
-##### _Для загрузки -> Clone or download -> Download ZIP_
+# Русификатор Bless Online
+##### _Для загрузки -> Clone or download -> Download ZIP_ или [Скачать](https://github.com/kirimba/rus_bless/archive/master.zip)
 ## 
 #### [AbnormalStatusInfo]
 * _16835 - строк не переведено_
@@ -100,6 +100,7 @@
 * 6705 - 15671 - не проверено/не переведено
 * 15672 - 16446 - переведено
 * 16446 - 16547 - не проверено/не переведено
+* 7214
 #### ﻿[ShopInfo] 
 * _94 - строк не переведено_
 * из 215
