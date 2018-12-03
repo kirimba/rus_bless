@@ -1,5 +1,6 @@
 # Русификатор Bless Online
 ##### _Для загрузки -> Clone or download -> Download ZIP_ или [Скачать](https://github.com/kirimba/rus_bless/archive/master.zip)
+##### Обсуждения: [Discord](https://discord.gg/aUCjfgW)
 ## 
 #### [AbnormalStatusInfo]
 * _16835 - строк не переведено_
