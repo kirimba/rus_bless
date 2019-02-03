@@ -1,7 +1,7 @@
 # Русификатор Bless Online by Kirimba
 ##### _Для загрузки -> Clone or download -> Download ZIP_ или [Скачать](https://github.com/kirimba/rus_bless/archive/master.zip)
 ##### Обсуждения: [Discord](https://discord.gg/aUCjfgW) 
-##### Мой лаунчер: [v.1.0](https://github.com/kirimba/rus_bless/releases/tag/)
+##### [Мой лаунчер](https://github.com/kirimba/rus_bless/releases)
 ## 
 #### [AbnormalStatusInfo]
 * _16835 - строк не переведено_
